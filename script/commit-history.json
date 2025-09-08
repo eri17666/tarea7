@@ -494,12 +494,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "5d33bc26016be865dcd1807f9a6f6577942e06a0",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-08T05:13:09.000Z",
       "message": "test: aplicar 15% descuento",
-      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea7/commit/5d33bc26016be865dcd1807f9a6f6577942e06a0"
     },
     "stats": {
       "total": 17,
@@ -509,6 +509,25 @@
     },
     "coverage": 100,
     "test_count": 25,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T05:30:05.000Z",
+      "message": "test: calcular totaldespuesdeldescuento",
+      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+    },
+    "stats": {
+      "total": 20,
+      "additions": 15,
+      "deletions": 5,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 26,
     "failed_tests": 0,
     "conclusion": "success"
   }

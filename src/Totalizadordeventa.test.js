@@ -67,3 +67,10 @@ describe('Stage B - Descuentos', () => {
     expect(r.discount).toBe(4500)
   })
 })
+
+describe('Stage C - TotalAfterDiscount', () => {
+  it('resta el descuento al subtotal', () => {
+    const r = calculate({ qty: 2, price: 2000 })
+    expect(r.TotalafterDiscount).toBe(3800)
+  })
+})
