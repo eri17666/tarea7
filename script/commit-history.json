@@ -627,17 +627,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f078b86fb3e6c93b037b86ddc4cca18660c151fd",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-08T06:52:30.000Z",
       "message": "feat(ui): mostrar descuento aplicado y monto descuento",
-      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea7/commit/f078b86fb3e6c93b037b86ddc4cca18660c151fd"
     },
     "stats": {
       "total": 4,
       "additions": 3,
       "deletions": 1,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T06:55:48.000Z",
+      "message": "feat(ui): mostrar total depues del descuento y impuesto aplicado según estado",
+      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 2,
+      "deletions": 0,
       "date": "2025-09-08"
     },
     "coverage": 100,
