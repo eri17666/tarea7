@@ -570,17 +570,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "83ba02b458160127de2c3e3df38576b9b51068f9",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-08T06:45:14.000Z",
       "message": "feat(ui): preparar formulario y capturar entradas del totalizador",
-      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea7/commit/83ba02b458160127de2c3e3df38576b9b51068f9"
     },
     "stats": {
       "total": 6,
       "additions": 6,
       "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T06:47:10.000Z",
+      "message": "feat(ui): invocar calculate y mostrar subtotal",
+      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 9,
+      "deletions": 1,
       "date": "2025-09-08"
     },
     "coverage": 100,

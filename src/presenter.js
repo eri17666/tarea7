@@ -46,3 +46,11 @@ const qtyInput = document.querySelector("#qty");
 const priceInput = document.querySelector("#price");
 const stateSelect = document.querySelector("#state");
 const resultDiv = document.querySelector("#result");
+
+totalizerForm.addEventListener("submit", (e) => {
+  e.preventDefault();
+
+  const qty = parseInt(qtyInput.value, 10);
+  const price = parseFloat(priceInput.value);
+  const state = stateSelect.value;
+});
