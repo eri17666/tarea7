@@ -1,5 +1,6 @@
 import sumar from "./sumador";
 import TennisScorer from "./tennisScorer.js";
+import calculate from "./Totalizadordeventa.js";
 
 const first = document.querySelector("#primer-numero");
 const second = document.querySelector("#segundo-numero");

@@ -532,17 +532,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b4d07c8a0a0a1ad7d6aea14ead18e72ec117f85d",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-08T06:03:59.000Z",
       "message": "feat: agregar impuestos por estado",
-      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea7/commit/b4d07c8a0a0a1ad7d6aea14ead18e72ec117f85d"
     },
     "stats": {
       "total": 33,
       "additions": 30,
       "deletions": 3,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T06:36:01.000Z",
+      "message": "agregar interfaz HTML para el totalizador",
+      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+    },
+    "stats": {
+      "total": 26,
+      "additions": 25,
+      "deletions": 1,
       "date": "2025-09-08"
     },
     "coverage": 100,
