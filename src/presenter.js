@@ -40,3 +40,9 @@ player2Btn.addEventListener("click", () => {
   scorer.player2Scores();
   updateScore();
 });
+
+const totalizerForm = document.querySelector("#totalizer-form");
+const qtyInput = document.querySelector("#qty");
+const priceInput = document.querySelector("#price");
+const stateSelect = document.querySelector("#state");
+const resultDiv = document.querySelector("#result");
