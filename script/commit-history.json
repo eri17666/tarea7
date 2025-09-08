@@ -1,0 +1,344 @@
+[
+  {
+    "sha": "4c20df5b9cc95829796915d62b4d9bdc1705b492",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T13:19:46.000Z",
+      "message": "Doc: plan de pruebas",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/4c20df5b9cc95829796915d62b4d9bdc1705b492"
+    },
+    "stats": {
+      "total": 32,
+      "additions": 32,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "241c353b4cbfb6bbd21012bf474e1b8a69b6f2df",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T13:26:29.000Z",
+      "message": "feat: muestra tablero inicial de love-love",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/241c353b4cbfb6bbd21012bf474e1b8a69b6f2df"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 13,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "0349dde514b15274efe4606f549c8afc0c7186ba",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T14:12:59.000Z",
+      "message": "refactoring: ahora se encapsula en objetos la funcionalidad del scorer",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/0349dde514b15274efe4606f549c8afc0c7186ba"
+    },
+    "stats": {
+      "total": 40,
+      "additions": 33,
+      "deletions": 7,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "a4aa1e89632ebf39e2fb2757298bc7317bc474af",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T14:15:26.000Z",
+      "message": "refacoring: se mejoro nombres de pruebas",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/a4aa1e89632ebf39e2fb2757298bc7317bc474af"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "20e7d9431375cd3656b76509be8334d1d8f5ab2c",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T14:19:23.000Z",
+      "message": "feat: El jugador 1 marca 3 puntos y el jugador 2 en 0",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/20e7d9431375cd3656b76509be8334d1d8f5ab2c"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "d52f629c8ee07ec5ca95fb41c4ccf2ca7cf6069d",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-08-28T21:14:29.000Z",
+      "message": "Doc: Explicacion de las reglas para mostrar el score",
+      "url": "https://github.com/israelantezana/TDDTennis-20252/commit/d52f629c8ee07ec5ca95fb41c4ccf2ca7cf6069d"
+    },
+    "stats": {
+      "total": 40,
+      "additions": 37,
+      "deletions": 3,
+      "date": "2025-08-28"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "17f531e5daf435151788e90f1c265581850229c8",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T07:54:23.000Z",
+      "message": "feat: jugador 2 puede marcar su primer punto",
+      "url": "https://github.com/eri17666/tarea_6/commit/17f531e5daf435151788e90f1c265581850229c8"
+    },
+    "stats": {
+      "total": 22,
+      "additions": 19,
+      "deletions": 3,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "7b69e25fb087e1773bc98b5a0934c35cb0d5a659",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T08:08:08.000Z",
+      "message": "feat: jugador 2 marca segundo punto 'Love - 30'",
+      "url": "https://github.com/eri17666/tarea_6/commit/7b69e25fb087e1773bc98b5a0934c35cb0d5a659"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 8,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "eac27635e9ef900bc32a845f70b7620c485f6804",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T08:10:31.000Z",
+      "message": "feat: jugador 2 marca tercer punto 'Love - 40'",
+      "url": "https://github.com/eri17666/tarea_6/commit/eac27635e9ef900bc32a845f70b7620c485f6804"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "2c7e7ca05c2bc0984f25d6fbe34f08c99e9956b0",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T08:15:49.000Z",
+      "message": "feat: mostrar empate 15 - 15",
+      "url": "https://github.com/eri17666/tarea_6/commit/2c7e7ca05c2bc0984f25d6fbe34f08c99e9956b0"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "9e0a164b5af14b4559139e558e313374afff453c",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T08:18:02.000Z",
+      "message": "feat: mostrar empate 30 - 30",
+      "url": "https://github.com/eri17666/tarea_6/commit/9e0a164b5af14b4559139e558e313374afff453c"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 10,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "10925b67820d43dafedd1c17748621bf371979e3",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T08:20:28.000Z",
+      "message": "feat: mostrar Deuce para empate ≥ 40",
+      "url": "https://github.com/eri17666/tarea_6/commit/10925b67820d43dafedd1c17748621bf371979e3"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "ad0fee457fef04fa41be71408209c6124d2aba2d",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T08:21:59.000Z",
+      "message": "feat: mostrar ventaja para jugador 1",
+      "url": "https://github.com/eri17666/tarea_6/commit/ad0fee457fef04fa41be71408209c6124d2aba2d"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 12,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "cb156d4b1fba1b3fce4dc1b94ba58b1a33f1f4f9",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T08:23:16.000Z",
+      "message": "feat: mostrar ventaja para jugador 2",
+      "url": "https://github.com/eri17666/tarea_6/commit/cb156d4b1fba1b3fce4dc1b94ba58b1a33f1f4f9"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 10,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 13,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "2f59d2a01e10b879f891326918e29487c65ea88a",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T09:18:48.000Z",
+      "message": "refactor: manejar Deuce y Advantage dinámicamente",
+      "url": "https://github.com/eri17666/tarea_6/commit/2f59d2a01e10b879f891326918e29487c65ea88a"
+    },
+    "stats": {
+      "total": 41,
+      "additions": 20,
+      "deletions": 21,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 14,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "a1ace56fbca909c9644eafc166d85472d12c93d1",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T09:30:01.000Z",
+      "message": "feat: declarar ganador del game cuando un jugador tiene 2 puntos de ventaja",
+      "url": "https://github.com/eri17666/tarea_6/commit/a1ace56fbca909c9644eafc166d85472d12c93d1"
+    },
+    "stats": {
+      "total": 31,
+      "additions": 31,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 16,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "7dc50a2c16302c1733ef866fcfd89eb9f949f27e",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T09:46:45.000Z",
+      "message": "feat: agregar interfaz HTML para el marcador de Tennis",
+      "url": "https://github.com/eri17666/tarea_6/commit/7dc50a2c16302c1733ef866fcfd89eb9f949f27e"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 6,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 16,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-04T10:01:06.000Z",
+      "message": "feat: implementacion final logica de interacción  de TennisScorer en presenter.js",
+      "url": "https://github.com/eri17666/tarea_6/commit/HEAD"
+    },
+    "stats": {
+      "total": 26,
+      "additions": 26,
+      "deletions": 0,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 16,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
