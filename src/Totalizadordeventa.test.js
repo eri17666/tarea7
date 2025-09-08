@@ -74,3 +74,12 @@ describe('Stage C - TotalAfterDiscount', () => {
     expect(r.TotalafterDiscount).toBe(3800)
   })
 })
+
+// src/__tests__/totalizer.spec.js
+describe('Stage D - Taxes', () => {
+  it('aplica impuesto UT correctamente', () => {
+    const r = calculate({ qty: 1, price: 1000, state: 'UT' })
+    expect(r.taxRate).toBeCloseTo(0.0665)
+    expect(r.total).toBeCloseTo(r.TotalafterDiscount* 1.0665, 2) // 👈 corregido
+  })
+})
