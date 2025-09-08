@@ -380,12 +380,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "64576e367c64ed8b037eaf9ddb84df5823481be4",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-08T04:05:38.000Z",
       "message": "test: redondear subtotal a 2 decimales",
-      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea7/commit/64576e367c64ed8b037eaf9ddb84df5823481be4"
     },
     "stats": {
       "total": 13,
@@ -395,6 +395,25 @@
     },
     "coverage": 100,
     "test_count": 19,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T04:21:53.000Z",
+      "message": "test: sin descuento si subtotal < 1000",
+      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 9,
+      "deletions": 1,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 20,
     "failed_tests": 0,
     "conclusion": "success"
   }

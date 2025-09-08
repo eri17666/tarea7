@@ -19,3 +19,11 @@ it('debería redondear subtotal a 2 decimales', () => {
     expect(r.subtotal).toBeCloseTo(100.00, 2)
 })
 })
+
+describe('Stage B - Descuentos', () => {
+it('no aplica descuento si subtotal < 1000', () => {
+    const r = calculate({ qty: 1, price: 999 })
+    expect(r.discountRate).toBe(0)
+    expect(r.discount).toBe(0)
+})
+})

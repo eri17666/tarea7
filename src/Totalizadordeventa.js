@@ -4,6 +4,6 @@ export function round2(value) {
 }
 function calculate({ qty, price }) {
    const subtotal=round2(qty * price);
-return { subtotal}
+return { subtotal,discountRate:0,discount:0};
 }
 export default calculate
