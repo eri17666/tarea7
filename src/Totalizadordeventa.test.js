@@ -59,3 +59,11 @@ describe('Stage B - Descuentos', () => {
     expect(r.discount).toBe(1000)
   })
 })
+
+describe('Stage B - Descuentos', () => {
+  it('aplica 15% si subtotal >= 30000', () => {
+    const r = calculate({ qty: 30, price: 1000 })
+    expect(r.discountRate).toBe(0.15)
+    expect(r.discount).toBe(4500)
+  })
+})
