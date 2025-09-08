@@ -53,4 +53,15 @@ totalizerForm.addEventListener("submit", (e) => {
   const qty = parseInt(qtyInput.value, 10);
   const price = parseFloat(priceInput.value);
   const state = stateSelect.value;
+
+  try {
+    const r = calculate({ qty, price, state });
+
+    resultDiv.innerHTML = `
+      <p><strong>Subtotal:</strong> $${r.subtotal}</p>
+    `;
+  } catch (err) {
+    resultDiv.innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
+  }
+  
 });

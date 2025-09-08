@@ -589,17 +589,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d3f313595bb673932e55c43108ed2562deb62fd3",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-08T06:47:10.000Z",
       "message": "feat(ui): invocar calculate y mostrar subtotal",
-      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea7/commit/d3f313595bb673932e55c43108ed2562deb62fd3"
     },
     "stats": {
       "total": 10,
       "additions": 9,
       "deletions": 1,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T06:50:09.000Z",
+      "message": "feat(ui): invocar calculate y mostrar subtotal",
+      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
       "date": "2025-09-08"
     },
     "coverage": 100,
