@@ -361,12 +361,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "7528830fce2f952a9e23b7a4e6a7f3cf90a959a7",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-08T03:32:58.000Z",
       "message": "feat: calcular subtotal como qty * price",
-      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea7/commit/7528830fce2f952a9e23b7a4e6a7f3cf90a959a7"
     },
     "stats": {
       "total": 13,
@@ -376,6 +376,25 @@
     },
     "coverage": 100,
     "test_count": 18,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T04:05:38.000Z",
+      "message": "test: redondear subtotal a 2 decimales",
+      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 12,
+      "deletions": 1,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 19,
     "failed_tests": 0,
     "conclusion": "success"
   }

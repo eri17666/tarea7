@@ -12,3 +12,10 @@ describe('Stage A - Subtotal', () => {
     expect(r.subtotal).toBe(200)
 })
 })
+
+describe('Stage A - Subtotal', () => {
+it('debería redondear subtotal a 2 decimales', () => {
+    const r = calculate({ qty: 3, price: 33.3333 })
+    expect(r.subtotal).toBeCloseTo(100.00, 2)
+})
+})
