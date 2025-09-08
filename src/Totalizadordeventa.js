@@ -1,5 +1,5 @@
 // src/lib/totalizer.js
-function calculate() {
-    return {}
+function calculate({ qty, price }) {
+  return { subtotal: qty * price }
 }
 export default calculate
