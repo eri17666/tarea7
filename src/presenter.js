@@ -59,9 +59,11 @@ totalizerForm.addEventListener("submit", (e) => {
 
     resultDiv.innerHTML = `
       <p><strong>Subtotal:</strong> $${r.subtotal}</p>
+      <p><strong>Descuento aplicado:</strong> ${r.discountRate * 100}%</p>
+      <p><strong>Monto descuento:</strong> -$${r.discount}</p>
     `;
   } catch (err) {
     resultDiv.innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
   }
-  
+
 });

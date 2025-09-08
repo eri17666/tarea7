@@ -608,17 +608,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "bea12dff1a06f6e93342f662ee810f698648f489",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-08T06:50:09.000Z",
       "message": "feat(ui): invocar calculate y mostrar subtotal",
-      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea7/commit/bea12dff1a06f6e93342f662ee810f698648f489"
     },
     "stats": {
       "total": 11,
       "additions": 11,
       "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T06:52:30.000Z",
+      "message": "feat(ui): mostrar descuento aplicado y monto descuento",
+      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 3,
+      "deletions": 1,
       "date": "2025-09-08"
     },
     "coverage": 100,
