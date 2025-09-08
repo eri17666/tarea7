@@ -323,12 +323,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "70232cd3dc034acb0400bfc697ea5e910e3e6a32",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-04T10:01:06.000Z",
       "message": "feat: implementacion final logica de interacción  de TennisScorer en presenter.js",
-      "url": "https://github.com/eri17666/tarea_6/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea_6/commit/70232cd3dc034acb0400bfc697ea5e910e3e6a32"
     },
     "stats": {
       "total": 26,
@@ -338,6 +338,25 @@
     },
     "coverage": 100,
     "test_count": 16,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T03:01:20.000Z",
+      "message": "feat: agregar función calculate vacía",
+      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 13,
+      "deletions": 1,
+      "date": "2025-09-08"
+    },
+    "coverage": 94.74,
+    "test_count": 17,
     "failed_tests": 0,
     "conclusion": "success"
   }
