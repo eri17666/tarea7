@@ -646,16 +646,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "eeaf513cfbf524be4f464b8a75e297d9230d59d8",
     "author": "ERICK1766",
     "commit": {
       "date": "2025-09-08T06:55:48.000Z",
       "message": "feat(ui): mostrar total depues del descuento y impuesto aplicado según estado",
-      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+      "url": "https://github.com/eri17666/tarea7/commit/eeaf513cfbf524be4f464b8a75e297d9230d59d8"
     },
     "stats": {
       "total": 2,
       "additions": 2,
+      "deletions": 0,
+      "date": "2025-09-08"
+    },
+    "coverage": 100,
+    "test_count": 27,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ERICK1766",
+    "commit": {
+      "date": "2025-09-08T06:59:43.000Z",
+      "message": "feat(ui): mostrar total final",
+      "url": "https://github.com/eri17666/tarea7/commit/HEAD"
+    },
+    "stats": {
+      "total": 1,
+      "additions": 1,
       "deletions": 0,
       "date": "2025-09-08"
     },

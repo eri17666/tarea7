@@ -63,6 +63,7 @@ totalizerForm.addEventListener("submit", (e) => {
       <p><strong>Monto descuento:</strong> -$${r.discount}</p>
       <p><strong>Total después del descuento:</strong> $${r.TotalafterDiscount}</p>
       <p><strong>Impuesto (${(r.taxRate * 100).toFixed(2)}%):</strong> $${r.taxAmount}</p>
+      <p><strong>Total Final:</strong> $${r.total}</p>
     `;
   } catch (err) {
     resultDiv.innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
