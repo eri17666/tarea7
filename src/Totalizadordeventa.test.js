@@ -27,3 +27,11 @@ it('no aplica descuento si subtotal < 1000', () => {
     expect(r.discount).toBe(0)
 })
 })
+
+describe('Stage B - Descuentos', () => {
+  it('aplica 3% si subtotal >= 1000', () => {
+    const r = calculate({ qty: 1, price: 1000 })
+    expect(r.discountRate).toBe(0.03)
+    expect(r.discount).toBe(30)
+  })
+})
